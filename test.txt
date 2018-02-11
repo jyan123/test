@@ -2,3 +2,5 @@ Random text, this is a test.
 Hello, another line of nonsense.
 
 Adding some updates in master copy.
+
+Making a change, branch out to DEV branch.
